@@ -1,0 +1,16 @@
+.video_studio {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  right: auto;
+  left: auto;
+}
+.video_ref {
+  max-width: 500px;
+  width: 100%;
+  max-height: 500px;
+  height: 100%;
+  border-radius: 30px;
+  background-color: rgb(64, 74, 74);
+  padding: 20px;
+}
